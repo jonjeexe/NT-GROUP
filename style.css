@@ -566,9 +566,9 @@ section{
 
 .playlist-details .row .column .thumb img{
    height: 30rem;
-   width: 100%;
+   width: 357%;
    object-fit: cover;
-   border-radius: .5rem;
+   border-radius: .6rem;
 }
 
 .playlist-details .row .column .tutor{
@@ -643,8 +643,8 @@ section{
 }
 
 .playlist-videos .box-container .box img{
-   width: 100%;
-   height: 30rem;
+   width: 200%;
+   height: 20rem;
    object-fit: cover;
    border-radius: .5rem;
 }
